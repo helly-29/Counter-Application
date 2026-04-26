@@ -16,8 +16,5 @@ This application allows users to **increase** or **decrease** a counter value us
 - Dart
 - Material Design
 
-## Project Structure
-
-```bash
-lib/
- └── main.dart
+## Author
+Helly Leuva
